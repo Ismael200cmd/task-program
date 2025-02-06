@@ -1,0 +1,13 @@
+{
+  "name": "task-program",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "task": "node src/index.js"
+  },
+  "dependencies": {
+    "@clack/prompts": "^0.8.2",
+    "chalk": "^5.3.0"
+  }
+}
